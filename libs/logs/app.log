@@ -1,0 +1,29 @@
+20:53:44.126 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:53:44.129 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:53:52.091 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:55:46.179 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:55:46.181 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:55:53.212 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+20:57:55.994 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+20:57:55.996 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+20:57:58.169 [org.example.front.SubwayApp] [JavaFX Application Thread] ERROR org.example.front.SubwayApp - Не удалось загрузить данные.
+21:00:12.014 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+21:00:12.016 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+21:00:12.022 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+21:00:12.022 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+21:00:12.027 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+21:00:12.027 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+21:00:12.027 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+21:00:12.046 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+21:00:12.413 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+21:00:14.611 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Приложение успешно закрылось.
+21:00:33.309 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Начат запуск программы.
+21:00:33.311 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Алгоритм заполнения матрицы смежности запущен.
+21:00:33.315 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Названия станций успешно считаны.
+21:00:33.315 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Количество станций успешно инициализировано.
+21:00:33.319 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Данные о расстояниях успешно загружены.
+21:00:33.319 [org.example.services.Matrix] [JavaFX Application Thread] INFO  org.example.services.Matrix - Матрица смежности успешно создана.
+21:00:33.319 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Данные метрополитена загружены успешно.
+21:00:33.339 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Файл с изображением найден.
+21:00:33.738 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Программа успешно запущена
+21:00:40.801 [org.example.front.SubwayApp] [JavaFX Application Thread] INFO  org.example.front.SubwayApp - Приложение успешно закрылось.
